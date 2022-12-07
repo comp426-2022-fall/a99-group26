@@ -1,5 +1,7 @@
 # a99-group26
 
+## Title
+
 ## Summary 
 
 COMP426 final project template boilerplate.
@@ -7,6 +9,11 @@ All your code and documentation goes here.
 Change this text to be a brief description of your final project.
 Put the name of your project in the header above.
 You will change everything below to be the main technical documentation, as outlined below.
+
+## Set up
+
+## Team Planning
+The planning process has been documented in this file. Everyone was contributing to the project and constantly merging and pulling from GitHub.
 
 ## First steps
 
