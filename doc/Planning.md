@@ -26,3 +26,4 @@
 - Finished Frontend of the project.
 - Record the video demo.
 - Finished the Figma prototypes.
+     - Figma Link [here](https://www.figma.com/file/WVtDdIZeL4nWC4gl5nEN0K/COMP-426-Project?node-id=30%3A41&t=yhiCZizVFLKHPCqM-1) 
