@@ -5,7 +5,7 @@
 We sought to create a live-blog created with UNC students in mind. This is a place where UNC students can post and blog whatever they would like (preferrably UNC specific). Students will be able to create posts and share them at instant time. We create this by implementing React and Firebase.
 
 ## Demo
-_INSERT LINK HERE
+[Link](https://youtu.be/yArdEW1DKsU)
 
 ## Set up
 Follow the following steps to install and use our web app:
