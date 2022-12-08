@@ -1,18 +1,16 @@
 # a99-group26
 
-## Final Project
+## UNC Blog
 
 ## Summary 
 
-COMP426 final project template boilerplate.
-All your code and documentation goes here.
-Change this text to be a brief description of your final project.
-Put the name of your project in the header above.
-You will change everything below to be the main technical documentation, as outlined below.
+This is a blog that acts like YikYak only for UNC students. Students will be able to create posts and share them at instant time. 
 
 ## Demo
 
 ## Set up
+
+## Implementations
 - User Database
 - Create New Post
 - Login/Sign Up
@@ -24,3 +22,5 @@ The planning process has been documented in this [file](doc/Planning.md). Everyo
 
 ## Team Roles
 We splited up the tasks and each person took roles in the project. Here's the [documentation](doc/Team.md) for how we splited the team.
+
+## Future Plans
