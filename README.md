@@ -1,6 +1,6 @@
 # a99-group26
 
-## Title
+## Final Project
 
 ## Summary 
 
@@ -33,9 +33,3 @@ Other steps that you will need to take after your team has accepted the assignme
 
 ## Team Roles
 We splited up the tasks and each person took roles in the project. Here's the [documentations](doc/Team.md) for how we splited the team.
-
-## Assignment instructions
-
-And that is about all you need to get started.
-
-Good skill and be creative!
