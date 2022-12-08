@@ -12,8 +12,10 @@ YikYak is a pretty popular app nowadays where people can share their thoughts an
 
 ## Implementations
 - User Database
-- Create New Post
-- Login/Sign Up
+- Posting
+1. Users are able to create posts on the web
+- Login
+- Sign Up
 
 ## API
 
