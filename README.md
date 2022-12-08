@@ -13,7 +13,7 @@ You will change everything below to be the main technical documentation, as outl
 ## Set up
 
 ## Team Planning
-The planning process has been documented in this file. Everyone was contributing to the project and constantly merging and pulling from GitHub.
+The planning process has been documented in this file (doc/Planning.md). Everyone was contributing to the project and constantly merging and pulling from GitHub.
 
 ## First steps
 
