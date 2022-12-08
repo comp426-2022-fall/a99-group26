@@ -13,10 +13,10 @@ Follow the following steps to install and use our web app:
   1. Clone the repository using git clone
   2. Navigate to the repository, and change directory into 'blog-app'
   3. Run the following commands to install dependencies and run the website:
-
+```
 npm install
 npm start
-
+```
 ## Implementations
 
   - Sign up/log-in with Google (create, edit, delete, connect account with database)
