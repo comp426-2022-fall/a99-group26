@@ -9,43 +9,20 @@
 ## December 6th
 - Created sketch for the UI design.
 - Came up with general ideas for the frontend and backend.
+- Created user functionality [skeleton] (/docs/design.md) 
 - Worked on the frontend and backend.
-     - Backend
-          - User have the ability of login, sign up, creating posts 
-     - Frontend
-          - CSS Styling
 - Created package.json file
-- Created GitHub Repository
 
 ## December 7th
 - We started the README.md file.
-- Pushed previous works on individual devices to GitHub
-     - Creating different branches 
-          - Commits
-          - Pull   
 - Create/Working on prototype
      - Tool: Figma
           - Desktop Version   
-- Worked on Backend.
-     - Firebase
-     - Implementations
-          - Home page
-          - Creating posts
-          - Login using Google      
-- Worked on Frontend. 
-     - React Frame Work
-     - Styling
-          - Home page
-          - Sign up page
-          - Posting      
+- Worked on Backend: Node.js + Firebase Databse   
+- Worked on Frontend: Built on the React Framework      
 
 ## December 8th
 - Finished Backend of the project.
-     - Final touches on the CSS 
 - Finished Frontend of the project.
-     - Final edits on the styling
-          - Home page
-          - Sign up page
-          - Posting 
 - Record the video demo.
 - Finished the Figma prototypes.
