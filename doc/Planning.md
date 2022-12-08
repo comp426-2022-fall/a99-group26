@@ -20,10 +20,3 @@
 2. Finished Frontend of the project.
 3. Record the video demo.
 4. Finished the Figma prototypes.
-
-## December 6th
-1. We split up different tasks and roles and work on parts individually.
-2. Came up with general ideas for the frontend and backend.
-3. Worked on the frontend and backend
-4. Created package.json file
-
