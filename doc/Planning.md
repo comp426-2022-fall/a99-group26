@@ -1,29 +1,29 @@
 ## December 1st
-1. Go over the general planning.
-2. Decided what we are doing for our project.
-3. Split up each task.
+- Go over the general planning.
+- Decided what we are doing for our project.
+- We came up with the purpose of the website
+  - UNC Blog: Space for UNC students to share their thoughts.
+- Split up each task.
+  - Team Role available [here](Team.md).
 
 ## December 6th
-1. Created sketch for the UI design.
-2. Came up with general ideas for the frontend and backend.
-3. Worked on the frontend and backend.
-4. Created package.json file
+- Created sketch for the UI design.
+- Came up with general ideas for the frontend and backend.
+- Created user functionality skeleton
+- Worked on the frontend and backend.
+- Created package.json file
 
 ## December 7th
-1. We started the README.md file.
-2. Used Figma to create prototypes.
-3. Worked on Backend.
-4. Worked on Frontend. 
+- We started the README.md file.
+- Create/Working on prototype
+   - Tool: Figma
+    - Desktop Version
+- Worked on Backend: Node.js + Firebase Databse
+- Worked on Frontend: Built on the React Framework
 
 ## December 8th
-1. Finished Backend of the project.
-2. Finished Frontend of the project.
-3. Record the video demo.
-4. Finished the Figma prototypes.
-
-## December 6th
-1. We split up different tasks and roles and work on parts individually.
-2. Came up with general ideas for the frontend and backend.
-3. Worked on the frontend and backend
-4. Created package.json file
-
+- Finished Backend of the project.
+- Finished Frontend of the project.
+- Record the video demo.
+- Finished the Figma prototypes.
+  - Figma Link [here](https://www.figma.com/file/WVtDdIZeL4nWC4gl5nEN0K/COMP-426-Project?node-id=39%3A61&t=yhiCZizVFLKHPCqM-1)
