@@ -24,7 +24,7 @@ npm start
   - Display posts for all users
 
 ## Team Planning
-The planning process has been documented in this [file](doc/Planning.md). Everyone was contributing to the project and constantly merging and pulling from GitHub.
+The planning process has been documented in this [file](doc/Planning.md). Everyone was contributing to the project and constantly merging and pulling from GitHub. We created overall design plans with [Figma](https://www.figma.com/file/WVtDdIZeL4nWC4gl5nEN0K/COMP-426-Project?node-id=39%3A61&t=yhiCZizVFLKHPCqM-1)
 
 ## Team Roles
 We splited up the tasks and each person took roles in the project. Here's the [documentation](doc/Team.md) for how we splited the team.
