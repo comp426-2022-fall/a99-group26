@@ -4,7 +4,7 @@
      - We came up with the purpose of the website
           - UNC Blog: Space for UNC students to share their thoughts.
 - Split up each task.
-     - Team Role available [here](doc/Team.md).
+     - Team Role available [here](Team.md).
 
 ## December 6th
 - Created sketch for the UI design.
