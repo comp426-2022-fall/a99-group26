@@ -3,7 +3,7 @@
 2. Decided what we are doing for our project.
 3. Split up each task.
 4. We came up with the purpose of the website
--- UNC Blog: Space for UNC students to share their thoughts.
+- UNC Blog: Space for UNC students to share their thoughts.
 
 ## December 6th
 1. Created sketch for the UI design.
