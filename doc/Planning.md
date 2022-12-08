@@ -4,7 +4,7 @@
 3. Split up each task.
 
 ## December 6th
-1. We split up different tasks and roles and work on parts individually.
+1. Created sketch for the UI design.
 2. Came up with general ideas for the frontend and backend.
 3. Worked on the frontend and backend.
 4. Created package.json file
@@ -16,6 +16,9 @@
 4. Worked on Frontend. 
 
 ## December 8th
-
+1. Finished Backend of the project.
+2. Finished Frontend of the project.
+3. Record the video demo.
+4. Finished the Figma prototypes.
 
 
