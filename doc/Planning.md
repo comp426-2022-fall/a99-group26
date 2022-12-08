@@ -9,7 +9,7 @@
 ## December 6th
 - Created sketch for the UI design.
 - Came up with general ideas for the frontend and backend.
-- Created user functionality [skeleton] (/docs/Design.md) 
+- Created user functionality [skeleton] (/doc/Design.md) 
 - Worked on the frontend and backend.
 - Created package.json file
 
