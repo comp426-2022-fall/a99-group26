@@ -20,4 +20,4 @@ You will change everything below to be the main technical documentation, as outl
 The planning process has been documented in this [file](doc/Planning.md). Everyone was contributing to the project and constantly merging and pulling from GitHub.
 
 ## Team Roles
-We splited up the tasks and each person took roles in the project. Here's the [documentations](doc/Team.md) for how we splited the team.
+We splited up the tasks and each person took roles in the project. Here's the [documentation](doc/Team.md) for how we splited the team.
