@@ -26,4 +26,4 @@ UNC Student Body needs a centralized place to communicate about all things UNC. 
 
 # Figma Prototype
 
-[Link] (https://www.figma.com/file/WVtDdIZeL4nWC4gl5nEN0K/COMP-426-Project?node-id=30%3A41&t=yhiCZizVFLKHPCqM-1)
+[Link](https://www.figma.com/file/WVtDdIZeL4nWC4gl5nEN0K/COMP-426-Project?node-id=30%3A41&t=yhiCZizVFLKHPCqM-1)
