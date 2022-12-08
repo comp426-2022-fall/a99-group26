@@ -1,18 +1,17 @@
 ## Team Member Roles
 
-#### Lily
-- Front end lead
-- Release manager
+#### Annabelle Jiang - Project Manager + Design
+- Organized team meetings and encouraged collaboration
+- Kept track of deadlines of goals and project
+- Created Design on Figma
 
-#### Koushik
-- Back end lead
-- Database lead
-- API endpoints
+#### Koushik Sridhar - Backend Lead
+- Deployed Firebase for authentication with Google Services
+- Developed Firebase's Firestore for post data storage
+- Created Post Creation and post feed pages
 
-#### Annabelle
-- Design lead
-- Review manager
-
+#### Lily Lee - Frontend Lead
+- Created aspects of front end and led styling with CSS.
 
 
 
