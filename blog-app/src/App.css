@@ -5,26 +5,30 @@
 body {
   padding: 0%;
   margin: 0%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Josefin Sans", sans-serif;
+  color:dimgrey;
 }
 
 nav {
   margin: 0;
   width: 100%;
   height: 60px;
-  background-color: black;
+  background-color:lightsteelblue;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   text-decoration: none;
+  position: sticky;
 }
 
 a {
   color: white;
   text-decoration: none;
   margin: 10px;
-  font-size: 15px;
+  font-size: 20px;
+  color: black;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .createPostPage {
@@ -32,13 +36,14 @@ a {
   height: calc(100vh - 80px);
   display: grid;
   place-items: center;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .cpContainer {
   width: 500px;
   height: auto;
   padding: 20px;
-  background-color: black;
+  background-color: dimgrey;
   border-radius: 12px;
   color: white;
   display: flex;
@@ -81,6 +86,7 @@ a {
   cursor: pointer;
   font-size: 18px;
 }
+
 input,
 textarea {
   margin-top: 5px;
@@ -93,10 +99,14 @@ textarea {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-size: cover;
+  background-image: url("https://i.imgur.com/nupUPBW.png");
+  
 }
 
 .loginPage p {
   font-size: 30px;
+  color: black;
 }
 
 /* GOOGLE BUTTON */
@@ -117,23 +127,28 @@ textarea {
   background-repeat: no-repeat;
   background-position: 12px 11px;
 }
+
 .login-with-google-btn:hover {
   box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.04), 0 2px 4px rgba(0, 0, 0, 0.25);
 }
+
 .login-with-google-btn:active {
   background-color: #eeeeee;
 }
+
 .login-with-google-btn:focus {
   outline: none;
   box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.04), 0 2px 4px rgba(0, 0, 0, 0.25),
     0 0 0 3px #c8dafc;
 }
+
 .login-with-google-btn:disabled {
   filter: grayscale(100%);
   background-color: #ebebeb;
   box-shadow: 0 -1px 0 rgba(0, 0, 0, 0.04), 0 1px 1px rgba(0, 0, 0, 0.25);
   cursor: not-allowed;
 }
+
 .homePage {
   width: 100%;
   min-height: calc(100vh - 80px);
@@ -142,13 +157,16 @@ textarea {
   flex-direction: column;
   align-items: center;
   padding-top: 20px;
+  background-image: url("https://i.imgur.com/nupUPBW.png");
+  background-size: cover;
+
 }
 
 .homePage .post {
   width: 600px;
   height: auto;
   max-height: 600px;
-  background-color: rgb(250, 250, 250);
+  background-color: lightsteelblue;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   margin: 20px;
   padding: 20px;
@@ -164,6 +182,7 @@ textarea {
 .postHeader .title {
   flex: 50%;
 }
+
 .postHeader .deletePost {
   flex: 50%;
   display: flex;
@@ -173,7 +192,6 @@ textarea {
 
 .deletePost button {
   border: none;
-
   background: none;
   font-size: 30px;
   cursor: pointer;
