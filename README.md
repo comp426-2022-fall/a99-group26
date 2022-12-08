@@ -13,6 +13,9 @@ You will change everything below to be the main technical documentation, as outl
 ## Demo
 
 ## Set up
+- User Database
+- Create New Post
+- Login/Sign Up
 
 ## API
 
